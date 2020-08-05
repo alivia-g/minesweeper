@@ -1,4 +1,5 @@
-# minesweeper<pre>
+# minesweeper
+<pre>
 This is a python implementation of a basic version of Minesweeper.
 Collaborators: Nishtha Pant
                Ava Guo
